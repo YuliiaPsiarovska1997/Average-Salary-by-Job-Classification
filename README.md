@@ -11,7 +11,7 @@ This project presents an interactive Power BI dashboard that visualizes average 
 
 ## 📁 Files
 
-- `data/Average_Salary_by_Job_Classification.csv` — original dataset from Data.gov  
+- `data/Average_Salary_by_Job_Classification.csv` — original dataset(https://catalog.data.gov/dataset/average-salary-by-job-classification)  
 - `dashboard.pbix` — Power BI report file  
 - `screenshot` — preview images of the dashboard
 
